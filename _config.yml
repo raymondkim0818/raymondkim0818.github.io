@@ -16,28 +16,23 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Raymond의 코딩일지"
+title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "레이먼의 코딩일지"
-description              : "머신러닝과 딥러닝, 알고리즘과 PS를 위주로 포스팅하는 레이먼입니다."
-url                      : "https://raymondkim0818.github.io"
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "raymondkim0818/raymondkim0818.github.io"
-teaser                   : "http://raymondkimpf.000webhostapp.com/gallery/ico_sh_05-ts1574783800.png"
-                            # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "http://raymondkimpf.000webhostapp.com/gallery/ico_sh_00-ts1574783799.jpg"
-                            # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Hello Raymond!"
-                            # overrides the website title displayed in the masthead, use " " for no title
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus"
-                            # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : www-raymond0818-github-io 
-                          # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
