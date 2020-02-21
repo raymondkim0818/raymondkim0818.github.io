@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Raymond의 코딩 노트"
+title                    : "RaymondKim's Coding Note"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "레이먼의 코딩노트"
+name                     : "RaymondKim's Coding Note"
 description              : "잡다한 코딩관련 자료를 포스팅하는 레이먼입니다."
 url                      : "https://raymondkim0818.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
