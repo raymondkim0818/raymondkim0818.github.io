@@ -24,9 +24,11 @@ description              : "잡다한 코딩관련 자료를 포스팅하는 레
 url                      : "https://raymondkim0818.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "raymondkim0818/raymondkim0818.github.io"
-teaser                   : "http://raymondkimpf.000webhostapp.com/gallery/ico_sh_05-ts1574783800.png"
+teaser                   : ""
+                            # "http://raymondkimpf.000webhostapp.com/gallery/ico_sh_05-ts1574783800.png"
                             # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "http://raymondkimpf.000webhostapp.com/gallery/ico_sh_00-ts1574783799.jpg"
+logo                     : ""
+                            # "http://raymondkimpf.000webhostapp.com/gallery/ico_sh_00-ts1574783799.jpg"
                             # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Hello Raymond!"
                             # overrides the website title displayed in the masthead, use " " for no title
